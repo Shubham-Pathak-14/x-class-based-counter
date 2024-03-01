@@ -1,5 +1,5 @@
 {
-  "name": "x-class-based-counter",
+  "name": "x_classcounter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
